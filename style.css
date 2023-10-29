@@ -1,0 +1,43 @@
+body
+{
+    font-family: 'Sometype Mono', monospace;
+background-color: #20f7f4;
+
+}
+
+.header_div
+{
+    background-color: white;
+    color:#024dfa;
+}
+.header_div p {
+    font-family: 'Sometype Mono', monospace;
+    color: #92f249;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.main_div button{
+    font-family: 'Edu TAS Beginner', 'cursive';
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.copy_right footer
+{
+    position:fixed;
+    color:#fa0505;
+    bottom: 100%;
+    width: 10px;
+    font-size: medium;
+    background-color: aqua;
+    line-height: 5px;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+}
+head {
+    background-color:red;
+}
+
+
